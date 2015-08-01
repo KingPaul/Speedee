@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nav_item_icon_tint_color">#333</color>
+    <color name="nav_item_text_color">#333</color>
+    <color name="white">#FFFFFF</color> <!--白色 -->
+    <color name="black">#000000</color> <!--黑色 -->
+    <color name="appgreen">#46C13E</color> <!--程序绿色 -->
+    <color name="appblue">#20aaf1</color> <!--程序蓝色 -->
+</resources>
